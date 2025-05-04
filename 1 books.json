@@ -1,0 +1,720 @@
+[{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8cd"
+  },
+  "BookID": 1,
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "price": 18.99,
+  "genre": "Fiction",
+  "published_year": 1960,
+  "publisher": "J.B. Lippincott & Co."
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8ce"
+  },
+  "BookID": 2,
+  "title": "1984",
+  "author": "George Orwell",
+  "price": 15.99,
+  "genre": "Dystopian",
+  "published_year": 1949,
+  "publisher": "Secker & Warburg"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8cf"
+  },
+  "BookID": 3,
+  "title": "Moby Dick",
+  "author": "Herman Melville",
+  "price": 22.99,
+  "genre": "Adventure",
+  "published_year": 1851,
+  "publisher": "Harper & Brothers"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8d0"
+  },
+  "BookID": 4,
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "price": 12.99,
+  "genre": "Romance",
+  "published_year": 1813,
+  "publisher": "T. Egerton"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8d1"
+  },
+  "BookID": 5,
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "price": 14.99,
+  "genre": "Fiction",
+  "published_year": 1925,
+  "publisher": "Charles Scribner's Sons"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8d2"
+  },
+  "BookID": 6,
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "price": 19.99,
+  "genre": "Historical Fiction",
+  "published_year": 1869,
+  "publisher": "The Russian Messenger"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8d3"
+  },
+  "BookID": 7,
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "price": 10.99,
+  "genre": "Fiction",
+  "published_year": 1951,
+  "publisher": "Little, Brown and Company"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8d4"
+  },
+  "BookID": 8,
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "price": 25.99,
+  "genre": "Fantasy",
+  "published_year": 1937,
+  "publisher": "George Allen & Unwin"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8d5"
+  },
+  "BookID": 9,
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "price": 13.99,
+  "genre": "Dystopian",
+  "published_year": 1932,
+  "publisher": "Chatto & Windus"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8d6"
+  },
+  "BookID": 10,
+  "title": "Jane Eyre",
+  "author": "Charlotte BrontÃ«",
+  "price": 18.99,
+  "genre": "Romance",
+  "published_year": 1847,
+  "publisher": "Smith, Elder & Co."
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8d7"
+  },
+  "BookID": 11,
+  "title": "Crime and Punishment",
+  "author": "Fyodor Dostoevsky",
+  "price": 17.99,
+  "genre": "Psychological Fiction",
+  "published_year": 1866,
+  "publisher": "The Russian Messenger"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8d8"
+  },
+  "BookID": 12,
+  "title": "Wuthering Heights",
+  "author": "Emily BrontÃ«",
+  "price": 12.99,
+  "genre": "Gothic Fiction",
+  "published_year": 1847,
+  "publisher": "Thomas Cautley Newby"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8d9"
+  },
+  "BookID": 13,
+  "title": "The Odyssey",
+  "author": "Homer",
+  "price": 21.99,
+  "genre": "Epic",
+  "published_year": -800,
+  "publisher": "Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8da"
+  },
+  "BookID": 14,
+  "title": "Anna Karenina",
+  "author": "Leo Tolstoy",
+  "price": 19.99,
+  "genre": "Realist Novel",
+  "published_year": 1878,
+  "publisher": "The Russian Messenger"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8db"
+  },
+  "BookID": 15,
+  "title": "The Brothers Karamazov",
+  "author": "Fyodor Dostoevsky",
+  "price": 18.99,
+  "genre": "Philosophical Novel",
+  "published_year": 1880,
+  "publisher": "The Russian Messenger"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8dc"
+  },
+  "BookID": 16,
+  "title": "Madame Bovary",
+  "author": "Gustave Flaubert",
+  "price": 14.99,
+  "genre": "Literary Realism",
+  "published_year": 1857,
+  "publisher": "Revue de Paris"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8dd"
+  },
+  "BookID": 17,
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "price": 20.99,
+  "genre": "Epic Poetry",
+  "published_year": 1320,
+  "publisher": "Italy"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8de"
+  },
+  "BookID": 18,
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "price": 16.99,
+  "genre": "Gothic Fiction",
+  "published_year": 1818,
+  "publisher": "Lackington, Hughes, Harding, Mavor & Jones"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8df"
+  },
+  "BookID": 19,
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "price": 39.99,
+  "genre": "Fantasy",
+  "published_year": 1954,
+  "publisher": "George Allen & Unwin"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8e0"
+  },
+  "BookID": 20,
+  "title": "One Hundred Years of Solitude",
+  "author": "Gabriel GarcÃ­a MÃ¡rquez",
+  "price": 16.99,
+  "genre": "Magical Realism",
+  "published_year": 1967,
+  "publisher": "Editorial Sudamericana"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8e1"
+  },
+  "BookID": 21,
+  "title": "Don Quixote",
+  "author": "Miguel de Cervantes",
+  "price": 24.99,
+  "genre": "Adventure",
+  "published_year": 1605,
+  "publisher": "Juan de la Cuesta"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8e2"
+  },
+  "BookID": 22,
+  "title": "In Search of Lost Time",
+  "author": "Marcel Proust",
+  "price": 29.99,
+  "genre": "Fiction",
+  "published_year": 1913,
+  "publisher": "Gallimard"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8e3"
+  },
+  "BookID": 23,
+  "title": "Ulysses",
+  "author": "James Joyce",
+  "price": 19.99,
+  "genre": "Modernism",
+  "published_year": 1922,
+  "publisher": "Shakespeare and Company"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8e4"
+  },
+  "BookID": 24,
+  "title": "Beloved",
+  "author": "Toni Morrison",
+  "price": 14.99,
+  "genre": "Historical Fiction",
+  "published_year": 1987,
+  "publisher": "Alfred A. Knopf"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8e5"
+  },
+  "BookID": 25,
+  "title": "Tess of the d'Urbervilles",
+  "author": "Thomas Hardy",
+  "price": 19.99,
+  "genre": "Historical Fiction",
+  "published_year": 1891,
+  "publisher": "HarperCollins"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8e6"
+  },
+  "BookID": 26,
+  "title": "The Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "price": 12.99,
+  "genre": "Adventure",
+  "published_year": 1885,
+  "publisher": "Charles L. Webster & Company"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8e7"
+  },
+  "BookID": 27,
+  "title": "The Remains of the Day",
+  "author": "Kazuo Ishiguro",
+  "price": 14.99,
+  "genre": "Historical Fiction",
+  "published_year": 1989,
+  "publisher": "Faber and Faber"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8e8"
+  },
+  "BookID": 28,
+  "title": "The Book Thief",
+  "author": "Markus Zusak",
+  "price": 15.99,
+  "genre": "Historical Fiction",
+  "published_year": 2005,
+  "publisher": "Black Swan"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8e9"
+  },
+  "BookID": 29,
+  "title": "The God of Small Things",
+  "author": "Arundhati Roy",
+  "price": 18.99,
+  "genre": "Postcolonial Literature",
+  "published_year": 1997,
+  "publisher": "Random House India"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8ea"
+  },
+  "BookID": 30,
+  "title": "Midnight's Children",
+  "author": "Salman Rushdie",
+  "price": 19.99,
+  "genre": "Magical Realism",
+  "published_year": 1981,
+  "publisher": "Faber and Faber"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8eb"
+  },
+  "BookID": 31,
+  "title": "American Pastoral",
+  "author": "Philip Roth",
+  "price": 17.99,
+  "genre": "Fiction",
+  "published_year": 1997,
+  "publisher": "Houghton Mifflin Harcourt"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8ec"
+  },
+  "BookID": 32,
+  "title": "The Road",
+  "author": "Cormac McCarthy",
+  "price": 16.99,
+  "genre": "Post-Apocalyptic",
+  "published_year": 2006,
+  "publisher": "Alfred A. Knopf"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8ed"
+  },
+  "BookID": 33,
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "price": 14.99,
+  "genre": "Adventure",
+  "published_year": 1988,
+  "publisher": "HarperTorch"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8ee"
+  },
+  "BookID": 34,
+  "title": "Life of Pi",
+  "author": "Yann Martel",
+  "price": 12.99,
+  "genre": "Fantasy",
+  "published_year": 2001,
+  "publisher": "Canongate Books"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8ef"
+  },
+  "BookID": 35,
+  "title": "A Tale of Two Cities",
+  "author": "Charles Dickens",
+  "price": 15.99,
+  "genre": "Historical Fiction",
+  "published_year": 1859,
+  "publisher": "Chapman & Hall"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8f0"
+  },
+  "BookID": 36,
+  "title": "The Kite Runner",
+  "author": "Khaled Hosseini",
+  "price": 13.99,
+  "genre": "Historical Fiction",
+  "published_year": 2003,
+  "publisher": "Riverhead Books"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8f1"
+  },
+  "BookID": 37,
+  "title": "The Handmaid's Tale",
+  "author": "Margaret Atwood",
+  "price": 17.99,
+  "genre": "Dystopian",
+  "published_year": 1985,
+  "publisher": "McClelland & Stewart"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8f2"
+  },
+  "BookID": 38,
+  "title": "Slaughterhouse-Five",
+  "author": "Kurt Vonnegut",
+  "price": 14.99,
+  "genre": "Science Fiction",
+  "published_year": 1969,
+  "publisher": "Delacorte"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8f3"
+  },
+  "BookID": 39,
+  "title": "The Catch-22",
+  "author": "Joseph Heller",
+  "price": 16.99,
+  "genre": "Satire",
+  "published_year": 1961,
+  "publisher": "Simon & Schuster"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8f4"
+  },
+  "BookID": 40,
+  "title": "The Bell Jar",
+  "author": "Sylvia Plath",
+  "price": 14.99,
+  "genre": "Literary Fiction",
+  "published_year": 1963,
+  "publisher": "Heinemann"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8f5"
+  },
+  "BookID": 41,
+  "title": "The Shining",
+  "author": "Stephen King",
+  "price": 18.99,
+  "genre": "Horror",
+  "published_year": 1977,
+  "publisher": "Doubleday"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8f6"
+  },
+  "BookID": 42,
+  "title": "The Secret History",
+  "author": "Donna Tartt",
+  "price": 19.99,
+  "genre": "Mystery",
+  "published_year": 1992,
+  "publisher": "Alfred A. Knopf"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8f7"
+  },
+  "BookID": 43,
+  "title": "Gone with the Wind",
+  "author": "Margaret Mitchell",
+  "price": 24.99,
+  "genre": "Historical Fiction",
+  "published_year": 1936,
+  "publisher": "Macmillan"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8f8"
+  },
+  "BookID": 44,
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "price": 12.99,
+  "genre": "Philosophical Fiction",
+  "published_year": 1890,
+  "publisher": "Lippincott's Monthly Magazine"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8f9"
+  },
+  "BookID": 45,
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "price": 16.99,
+  "genre": "Gothic Fiction",
+  "published_year": 1897,
+  "publisher": "Archibald Constable and Company"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8fa"
+  },
+  "BookID": 46,
+  "title": "The Count of Monte Cristo",
+  "author": "Alexandre Dumas",
+  "price": 22.99,
+  "genre": "Adventure",
+  "published_year": 1844,
+  "publisher": "Journal des DÃ©bats"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8fb"
+  },
+  "BookID": 47,
+  "title": "Great Expectations",
+  "author": "Charles Dickens",
+  "price": 15.99,
+  "genre": "Bildungsroman",
+  "published_year": 1861,
+  "publisher": "Chapman & Hall"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8fc"
+  },
+  "BookID": 48,
+  "title": "The Grapes of Wrath",
+  "author": "John Steinbeck",
+  "price": 14.99,
+  "genre": "Historical Fiction",
+  "published_year": 1939,
+  "publisher": "The Viking Press"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8fd"
+  },
+  "BookID": 49,
+  "title": "The Old Man and the Sea",
+  "author": "Ernest Hemingway",
+  "price": 13.99,
+  "genre": "Literary Fiction",
+  "published_year": 1952,
+  "publisher": "Charles Scribner's Sons"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8fe"
+  },
+  "BookID": 50,
+  "title": "Heart of Darkness",
+  "author": "Joseph Conrad",
+  "price": 11.99,
+  "genre": "Novella",
+  "published_year": 1899,
+  "publisher": "Blackwood's Magazine"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d8ff"
+  },
+  "BookID": 51,
+  "title": "On the Road",
+  "author": "Jack Kerouac",
+  "price": 14.99,
+  "genre": "Beat",
+  "published_year": 1957,
+  "publisher": "Viking Press"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d900"
+  },
+  "BookID": 52,
+  "title": "The Sun Also Rises",
+  "author": "Ernest Hemingway",
+  "price": 15.99,
+  "genre": "Literary Fiction",
+  "published_year": 1926,
+  "publisher": "Scribner"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d901"
+  },
+  "BookID": 53,
+  "title": "To the Lighthouse",
+  "author": "Virginia Woolf",
+  "price": 13.99,
+  "genre": "Modernism",
+  "published_year": 1927,
+  "publisher": "Hogarth Press"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d902"
+  },
+  "BookID": 54,
+  "title": "The Color Purple",
+  "author": "Alice Walker",
+  "price": 16.99,
+  "genre": "Historical Fiction",
+  "published_year": 1982,
+  "publisher": "Harcourt Brace Jovanovich"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d903"
+  },
+  "BookID": 55,
+  "title": "Lord of the Flies",
+  "author": "William Golding",
+  "price": 12.99,
+  "genre": "Allegory",
+  "published_year": 1954,
+  "publisher": "Faber and Faber"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d904"
+  },
+  "BookID": 56,
+  "title": "The Catch-22",
+  "author": "Joseph Heller",
+  "price": 16.99,
+  "genre": "Satire",
+  "published_year": 1961,
+  "publisher": "Simon & Schuster"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d905"
+  },
+  "BookID": 57,
+  "title": "Lolita",
+  "author": "Vladimir Nabokov",
+  "price": 17.99,
+  "genre": "Fiction",
+  "published_year": 1955,
+  "publisher": "Olympia Press"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d906"
+  },
+  "BookID": 58,
+  "title": "A Portrait of the Artist as a Young Man",
+  "author": "James Joyce",
+  "price": 14.99,
+  "genre": "Modernism",
+  "published_year": 1916,
+  "publisher": "B.W. Huebsch"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d907"
+  },
+  "BookID": 59,
+  "title": "Mansfield Park",
+  "author": "Jane Austen",
+  "price": 12.99,
+  "genre": "Fiction",
+  "published_year": 1814,
+  "publisher": "Thomas Egerton"
+},
+{
+  "_id": {
+    "$oid": "66b5aae2a63be25dda87d908"
+  },
+  "BookID": 60,
+  "title": "The Stranger",
+  "author": "Albert Camus",
+  "price": 15.99,
+  "genre": "Philosophical Fiction",
+  "published_year": 1942,
+  "publisher": "Gallimard"
+}]

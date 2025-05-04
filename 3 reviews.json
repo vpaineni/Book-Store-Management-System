@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d957"
+  },
+  "ReviewID": 1,
+  "BookID": 1,
+  "UserID": 629,
+  "Rating": 5,
+  "Comment": "Great book!",
+  "ReviewDate": "2024-06-28"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d958"
+  },
+  "ReviewID": 2,
+  "BookID": 2,
+  "UserID": 276,
+  "Rating": 4,
+  "Comment": "Interesting read, but a bit slow in the middle.",
+  "ReviewDate": "2024-07-05"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d959"
+  },
+  "ReviewID": 3,
+  "BookID": 3,
+  "UserID": 581,
+  "Rating": 3,
+  "Comment": "Not quite what I expected.",
+  "ReviewDate": "2024-07-10"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d95a"
+  },
+  "ReviewID": 4,
+  "BookID": 1,
+  "UserID": 215,
+  "Rating": 5,
+  "Comment": "Loved every chapter!",
+  "ReviewDate": "2024-07-12"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d95b"
+  },
+  "ReviewID": 5,
+  "BookID": 4,
+  "UserID": 574,
+  "Rating": 2,
+  "Comment": "Could not get into it.",
+  "ReviewDate": "2024-06-30"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d95c"
+  },
+  "ReviewID": 6,
+  "BookID": 2,
+  "UserID": 487,
+  "Rating": 4,
+  "Comment": "Well-written and engaging.",
+  "ReviewDate": "2024-07-01"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d95d"
+  },
+  "ReviewID": 7,
+  "BookID": 5,
+  "UserID": 694,
+  "Rating": 4,
+  "Comment": "A very compelling story.",
+  "ReviewDate": "2024-07-14"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d95e"
+  },
+  "ReviewID": 8,
+  "BookID": 6,
+  "UserID": 205,
+  "Rating": 3,
+  "Comment": "It was okay, but not memorable.",
+  "ReviewDate": "2024-07-03"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d95f"
+  },
+  "ReviewID": 9,
+  "BookID": 7,
+  "UserID": 352,
+  "Rating": 5,
+  "Comment": "An absolute masterpiece!",
+  "ReviewDate": "2024-07-08"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d960"
+  },
+  "ReviewID": 10,
+  "BookID": 8,
+  "UserID": 513,
+  "Rating": 2,
+  "Comment": "Struggled to finish it.",
+  "ReviewDate": "2024-07-11"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d961"
+  },
+  "ReviewID": 11,
+  "BookID": 5,
+  "UserID": 451,
+  "Rating": 4,
+  "Comment": "Great character development.",
+  "ReviewDate": "2024-06-29"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d962"
+  },
+  "ReviewID": 12,
+  "BookID": 6,
+  "UserID": 326,
+  "Rating": 3,
+  "Comment": "Decent, but could be better.",
+  "ReviewDate": "2024-07-02"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d963"
+  },
+  "ReviewID": 13,
+  "BookID": 7,
+  "UserID": 934,
+  "Rating": 5,
+  "Comment": "Highly recommend!",
+  "ReviewDate": "2024-07-07"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d964"
+  },
+  "ReviewID": 14,
+  "BookID": 8,
+  "UserID": 783,
+  "Rating": 1,
+  "Comment": "Not worth the time.",
+  "ReviewDate": "2024-07-13"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d965"
+  },
+  "ReviewID": 15,
+  "BookID": 9,
+  "UserID": 678,
+  "Rating": 4,
+  "Comment": "Very enjoyable.",
+  "ReviewDate": "2024-07-06"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d966"
+  },
+  "ReviewID": 16,
+  "BookID": 10,
+  "UserID": 840,
+  "Rating": 3,
+  "Comment": "Average read.",
+  "ReviewDate": "2024-07-04"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d967"
+  },
+  "ReviewID": 17,
+  "BookID": 11,
+  "UserID": 490,
+  "Rating": 5,
+  "Comment": "Couldn't put it down!",
+  "ReviewDate": "2024-07-09"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d968"
+  },
+  "ReviewID": 18,
+  "BookID": 12,
+  "UserID": 629,
+  "Rating": 4,
+  "Comment": "Well-written, but a bit predictable.",
+  "ReviewDate": "2024-07-15"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d969"
+  },
+  "ReviewID": 19,
+  "BookID": 13,
+  "UserID": 276,
+  "Rating": 3,
+  "Comment": "Not my favorite, but not bad.",
+  "ReviewDate": "2024-07-16"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d96a"
+  },
+  "ReviewID": 20,
+  "BookID": 14,
+  "UserID": 215,
+  "Rating": 5,
+  "Comment": "Amazing from start to finish!",
+  "ReviewDate": "2024-07-17"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d96b"
+  },
+  "ReviewID": 21,
+  "BookID": 15,
+  "UserID": 326,
+  "Rating": 2,
+  "Comment": "Didn't live up to the hype.",
+  "ReviewDate": "2024-07-18"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d96c"
+  },
+  "ReviewID": 22,
+  "BookID": 16,
+  "UserID": 581,
+  "Rating": 4,
+  "Comment": "Enjoyable and thought-provoking.",
+  "ReviewDate": "2024-07-19"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d96d"
+  },
+  "ReviewID": 23,
+  "BookID": 17,
+  "UserID": 490,
+  "Rating": 3,
+  "Comment": "Had some good moments, but overall average.",
+  "ReviewDate": "2024-07-20"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d96e"
+  },
+  "ReviewID": 24,
+  "BookID": 18,
+  "UserID": 840,
+  "Rating": 5,
+  "Comment": "A new favorite!",
+  "ReviewDate": "2024-07-21"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d96f"
+  },
+  "ReviewID": 25,
+  "BookID": 19,
+  "UserID": 574,
+  "Rating": 1,
+  "Comment": "Really disappointed.",
+  "ReviewDate": "2024-07-22"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d970"
+  },
+  "ReviewID": 26,
+  "BookID": 20,
+  "UserID": 694,
+  "Rating": 4,
+  "Comment": "Good read, well-paced.",
+  "ReviewDate": "2024-07-23"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d971"
+  },
+  "ReviewID": 27,
+  "BookID": 21,
+  "UserID": 783,
+  "Rating": 3,
+  "Comment": "Not bad, but could have been better.",
+  "ReviewDate": "2024-07-24"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d972"
+  },
+  "ReviewID": 28,
+  "BookID": 22,
+  "UserID": 678,
+  "Rating": 5,
+  "Comment": "Absolutely loved it!",
+  "ReviewDate": "2024-07-25"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d973"
+  },
+  "ReviewID": 29,
+  "BookID": 23,
+  "UserID": 934,
+  "Rating": 2,
+  "Comment": "Could not get into it at all.",
+  "ReviewDate": "2024-07-26"
+},
+{
+  "_id": {
+    "$oid": "66b5ab17a63be25dda87d974"
+  },
+  "ReviewID": 30,
+  "BookID": 24,
+  "UserID": 513,
+  "Rating": 4,
+  "Comment": "Engaging and well-written.",
+  "ReviewDate": "2024-07-27"
+}]
